@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Dheeraj  
-
 <p align="center">
   <img src="https://image.over-blog.com/9PtaMT6P_mzg2XUKyJZxETjl4iM=/filters:no_upscale()/image%2F4027310%2F20201015%2Fob_f7467d_cyber.gif" alt="Cyber GIF" width="400"/>
 </p>
 
+# 👋 Hi, I'm Dheeraj  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitor%20Count&color=blue&style=for-the-badge" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=dheerajtera&label=Visitor%20Count&color=blue&style=for-the-badge" alt="Visitor Badge"/>
 </p>
 
 ### 🔐 Cybersecurity Student | Aspiring Ethical Hacker | Web Security Learner  
@@ -28,7 +28,7 @@ I’m building my career in cybersecurity by sharpening my technical skills, bre
 
 ## 🚀 What I Do  
 - 🛡️ Practice ethical hacking on **TryHackMe**, **Hack The Box**, and lab environments  
-- 🕵️‍♂️ Explore **OWASP Top 10** vulnerabilities using real test environments  
+- 🕵️‍♂️ Explore **OWASP Top 10** vulnerabilities  
 - 🔍 Learn and apply penetration testing techniques  
 - 🧪 Build and test small security-focused projects  
 
@@ -45,7 +45,7 @@ I’m building my career in cybersecurity by sharpening my technical skills, bre
 ## 🧩 Skills (Icon Grid)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,git,github,html,js,network" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,github" />
 </p>
 
 ---
@@ -53,31 +53,31 @@ I’m building my career in cybersecurity by sharpening my technical skills, bre
 ## 📌 Current Focus  
 - Improving web application security testing  
 - Practicing vulnerable machines & CTFs  
-- Learning advanced SQLi, XSS, and authentication bypass techniques  
+- Learning advanced SQLi, XSS, and bypass techniques  
 - **Breaking → Understanding → Securing**  
 
 ---
 
 ## 🔥 Projects You’ll Find Here  
-- Web security labs and vulnerable app exploitation  
-- Python scripts for automation and scanning  
-- Write-ups (sanitized) of CTF and TryHackMe challenges  
-- Small security tools I build while learning  
+- Web security labs & exploitation  
+- Python automation & scanning scripts  
+- CTF write-ups (safe & sanitized)  
+- Small pentesting tools  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerajtera&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajtera&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajtera&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ I’m building my career in cybersecurity by sharpening my technical skills, bre
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/dheerajtera/dheerajtera/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
