@@ -82,13 +82,5 @@ I’m building my career in cybersecurity by sharpening my technical skills, bre
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dheerajtera/dheerajtera/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 🌱 Always Learning  
-Every project here represents progress. Security isn’t about being perfect — it’s about constant improvement, curiosity, and staying ahead of threats.
+Security isn’t about being perfect — it’s about constant improvement, curiosity, and staying ahead of threats.
